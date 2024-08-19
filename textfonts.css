@@ -1,0 +1,50 @@
+/* *{
+    background-image: url(../images/flap\ ro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+/* }  */
+h3{
+    background-color:violet;
+    color:black;
+}
+h2{
+    text-align: right;
+    text-decoration: overline;
+    color:red;
+    text-shadow:3px 2px black;
+
+}
+h4{
+    
+    text-decoration: underline;
+    color: red;
+    text-shadow:2px 1px black;
+}
+div{
+    width:200px;
+    height:200px;
+    border-color: black;
+    border-style: solid;
+   
+
+    box-shadow: 3px 3px 4px green;
+
+}
+/* {
+    object-fit: contain;
+    width:200px;
+    height:200px;
+
+} */
+ *{
+    background-color: beige;
+    background-repeat: no-repeat;/
+
+    }
+ 
+.ni{
+    background:linear-gradient(red,yellow,green,violet)
+    
+    
+ }
+
